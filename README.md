@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(from Helios Launcher)</h5></em>
 
-<p align="center">[<img src="https://img.shields.io/github/actions/workflow/status/Lord-ZuzurNC/ZLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/Lord-ZuzurNC/ZLauncher/actions) [<img src="https://img.shields.io/github/downloads/Lord-ZuzurNC/ZLauncher/total?style=for-the-badge" alt="downloads">](https://github.com/Lord-ZuzurNC/ZLauncher/releases) [<img src="https://img.shields.io/discord/1041012009996660767?style=for-the-badge" alt="discord">](https://discord.gg/kyNBTDaZsU)</p>
+[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Lord-ZuzurNC/ZLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/Lord-ZuzurNC/ZLauncher/actions) [<img src="https://img.shields.io/github/downloads/Lord-ZuzurNC/ZLauncher/total?style=for-the-badge" alt="downloads">](https://github.com/Lord-ZuzurNC/ZLauncher/releases) [<img src="https://img.shields.io/discord/1041012009996660767?style=for-the-badge" alt="discord">](https://discord.gg/kyNBTDaZsU)</p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
@@ -171,7 +171,7 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 * [Nebula (Create Distribution.json)][nebula]
 
 The best way to contact the developers is on [Discord](https://discord.gg/kyNBTDaZsU).
-<p>[<img src="https://img.shields.io/discord/1041012009996660767?style=plastic" alt="discord">](https://discord.gg/kyNBTDaZsU)</p>
+[<p><img src="https://img.shields.io/discord/1041012009996660767?style=plastic" alt="discord">](https://discord.gg/kyNBTDaZsU)</p>
 
 ---
 
