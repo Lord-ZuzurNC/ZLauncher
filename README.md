@@ -171,6 +171,7 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 * [Nebula (Create Distribution.json)][nebula]
 
 The best way to contact the developers is on [Discord](https://discord.gg/kyNBTDaZsU).
+[](https://img.shields.io/discord/1041012009996660767?style=plastic)
 
 ---
 
@@ -186,3 +187,4 @@ The best way to contact the developers is on [Discord](https://discord.gg/kyNBTD
 [wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
 [nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
 [v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
+[def]: https://img.shields.io/discord/1041012009996660767?style=plastic
