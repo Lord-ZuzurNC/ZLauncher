@@ -8,8 +8,8 @@
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
-![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
-![Screenshot 2](https://i.imgur.com/x3B34n1.png)
+![Screenshot 1](./assets/images/screen1.png)
+![Screenshot 2](./assets/images/screen2.png)
 
 ## Features
 
@@ -181,7 +181,6 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 
 * [Wiki][wiki]
 * [Nebula (Create Distribution.json)][nebula]
-* [v2 Rewrite Branch (Inactive)][v2branch]
 
 The best way to contact the developers is on [Discord](https://discord.gg/kyNBTDaZsU)].
 
