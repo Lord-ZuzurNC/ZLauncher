@@ -43,7 +43,7 @@ You can download from [GitHub Releases](https://github.com/Lord-ZuzurNC/ZLaunche
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/Lord-ZuzurNC/ZLauncher/releases/latest)
+[![](https://img.shields.io/github/v/release/Lord-ZuzurNC/ZLauncher)](https://github.com/Lord-ZuzurNC/ZLauncher/releases/latest)
 
 **Supported Platforms**
 
