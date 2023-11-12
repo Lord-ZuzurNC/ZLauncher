@@ -11,23 +11,23 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "ZCMCS",
+        "smallImageText": "WesterosCraft",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "ZCMCS",
-            "name": "ZCMCS Client",
-            "description": "ZCMCS server.",
-            "icon": "https://github.com/Lord-ZuzurNC/ZLauncher/raw/master/app/assets/images/SealCircle.png",
-            "version": "1.0.0",
-            "address": "minecraft.zcastle.nexus:25565",
-            "minecraftVersion": "1.20.1",
+            "id": "Example_Server",
+            "name": "WesterosCraft Example Client",
+            "description": "Example WesterosCraft server. Connect for fun!",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "version": "0.0.1",
+            "address": "mc.westeroscraft.com:1337",
+            "minecraftVersion": "1.11.2",
             "discord": {
-                "shortId": "ZCMCS",
-                "largeImageText": "ZCMCS Server",
-                "largeImageKey": "ZCMCS"
+                "shortId": "Example",
+                "largeImageText": "WesterosCraft Example Server",
+                "largeImageKey": "server-example"
             },
             "mainServer": true,
             "autoconnect": true,
@@ -47,10 +47,10 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "ZCMCS",
+        "smallImageText": "WesterosCraft",
         "smallImageKey": "seal-circle"
     },
-    // "rss": "https://westeroscraft.com/articles/index.rss",
+    "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": []
 }
 ```
@@ -81,17 +81,17 @@ A URL to a RSS feed. Used for loading news.
 #### Example
 ```JSON
 {
-    "id": "ZCMCS",
-    "name": "ZCMCS Client",
-    "description": "ZCMCS server.",
-    "icon": "https://github.com/Lord-ZuzurNC/ZLauncher/raw/master/app/assets/images/SealCircle.png",
-    "version": "1.0.0",
-    "address": "minecraft.zcastle.nexus:25565",
-    "minecraftVersion": "1.20.1",
+    "id": "Example_Server",
+    "name": "WesterosCraft Example Client",
+    "description": "Example WesterosCraft server. Connect for fun!",
+    "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+    "version": "0.0.1",
+    "address": "mc.westeroscraft.com:1337",
+    "minecraftVersion": "1.11.2",
     "discord": {
-        "shortId": "ZCMCS",
-        "largeImageText": "ZCMCS Server",
-        "largeImageKey": "ZCMCS"
+        "shortId": "Example",
+        "largeImageText": "WesterosCraft Example Server",
+        "largeImageKey": "server-example"
     },
     "mainServer": true,
     "autoconnect": true,
@@ -174,7 +174,7 @@ Server-specific Java options.
       }
     ],
     "ram": {
-      "recommended": 4096,
+      "recommended": 3072,
       "minimum": 2048
     }
 }
@@ -414,23 +414,23 @@ Ex.
 
 ```json
 {
-    "id": "net.minecraftforge:forge:1.20.1-47.2.0",
-    "name": "Minecraft Forge 1.20.1-47.2.0",
+    "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
+    "name": "Minecraft Forge 1.11.2-13.20.1.2429",
     "type": "ForgeHosted",
     "artifact": {
         "size": 4450992,
         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-universal.jar"
+        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2429/forge-1.11.2-13.20.1.2429-universal.jar"
     },
     "subModules": [
         {
-            "id": "net.minecraft:launchwrapper:1.20.1",
+            "id": "net.minecraft:launchwrapper:1.12",
             "name": "Mojang (LaunchWrapper)",
             "type": "Library",
             "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.20.1/launchwrapper-1.20.1.jar"
+                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/launchwrapper-1.12.jar"
             }
         }
     ]
