@@ -182,7 +182,7 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 * [Wiki][wiki]
 * [Nebula (Create Distribution.json)][nebula]
 
-The best way to contact the developers is on [Discord](https://discord.gg/kyNBTDaZsU)].
+The best way to contact the developers is on [Discord](https://discord.gg/kyNBTDaZsU).
 
 ---
 
