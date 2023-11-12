@@ -49,11 +49,6 @@ You can download from [GitHub Releases](https://github.com/Lord-ZuzurNC/ZLaunche
 
 If you download from the [Releases](https://github.com/Lord-ZuzurNC/ZLauncher/releases) tab, select the installer for your system.
 
-| Platform | File |
-| -------- | ---- |
-| Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
-| Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
-
 ## Console
 
 To open the console, use the following keybind.
@@ -106,15 +101,8 @@ This section details the setup of a basic developmentment environment.
 To build for your current platform.
 
 ```console
-> npm run dist
+> npm run dist:win
 ```
-
-Build for a specific platform.
-
-| Platform    | Command              |
-| ----------- | -------------------- |
-| Windows x64 | `npm run dist:win`   |
-| Linux x64   | `npm run dist:linux` |
 
 ---
 
