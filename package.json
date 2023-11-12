@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.5",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "ZLauncher",
+  "version": "1.0.0",
+  "productName": "ZLauncher",
+  "description": "Modded Minecraft Launcher for ZCMCS",
+  "author": "Original: Daniel Scalzi (https://github.com/dscalzi/) // Modified by: LordZNC (https://github.com/Lord-ZuzurNC/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Lord-ZuzurNC/ZLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Lord-ZuzurNC/ZLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Lord-ZuzurNC/ZLauncher.git"
   }
 }
