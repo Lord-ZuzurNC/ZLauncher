@@ -2,7 +2,7 @@
 
 <h1 align="center">ZLauncher</h1>
 
-<em><h5 align="center">(from Helios Launcher)</h5></em>
+<em><h5 align="center">Forked from [Helios Launcher](https://github.com/dscalzi/HeliosLauncher)</h5></em>
 
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/Lord-ZuzurNC/ZLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/Lord-ZuzurNC/ZLauncher/actions) [<img src="https://img.shields.io/github/downloads/Lord-ZuzurNC/ZLauncher/total?style=for-the-badge" alt="downloads">](https://github.com/Lord-ZuzurNC/ZLauncher/releases) [<img src="https://img.shields.io/discord/1041012009996660767?style=for-the-badge" alt="discord">](https://discord.gg/kyNBTDaZsU)</p>
 
